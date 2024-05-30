@@ -8,7 +8,6 @@ npm start
 
 ### Server
 
-```
 git clone https://github.com/venkigowda11/Palindrome
 
 cd server
